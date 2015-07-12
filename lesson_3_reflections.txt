@@ -8,3 +8,6 @@ Pull changes manually is the best option because:
 
 3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Clones are the method of geting on my computer both forks and branches from GitHub. When I push my commits to GitHub my fork repository is updated, but not the original repository I've have forked on.The branch I have been pushed on GitHub will be beside the master branch and can be merge in it. I would use forks when I want to have a version of the forked repository and change it as I like. I would use branches when I'm working on a project whith other people and my branch it can be usefull for them and for the project.
+
+4.What is the benefit of having a copy of the last known state of the remote stored locally?
+I can view the difference between my master branch and what changes have been made by others.I can decide whatever there are good changes for the project and how to merge it in a master branch.  
