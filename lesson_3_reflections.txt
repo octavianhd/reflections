@@ -11,3 +11,6 @@ Clones are the method of geting on my computer both forks and branches from GitH
 
 4.What is the benefit of having a copy of the last known state of the remote stored locally?
 I can view the difference between my master branch and what changes have been made by others.I can decide whatever there are good changes for the project and how to merge it in a master branch.  
+
+5.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It's very hard to collaborate without using Git or GitHub. It would be harder to see the changes made by others, to merge into the master branch, to come back to a previous version, to check the changes and debbug them, etc.I think nothing would be easier.
