@@ -14,3 +14,6 @@ I can view the difference between my master branch and what changes have been ma
 
 5.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It's very hard to collaborate without using Git or GitHub. It would be harder to see the changes made by others, to merge into the master branch, to come back to a previous version, to check the changes and debbug them, etc.I think nothing would be easier.
+
+6.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would like to make changes in aseparate branch when I'm trying a new aproach, a new feature, a new line of the project and it may takes time and work to do till I can say that it is a better aproach and to merge the new branch into master branch. Working directly in master would be better when I would work in something specific, a part of the code or of the project that has been exactly defined and will be add quicker in the master.
